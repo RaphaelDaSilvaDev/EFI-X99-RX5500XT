@@ -1,21 +1,21 @@
 # Machinist E5 MR9A PRO + Xeon E5 2670 v3 + 16 Gb Dual Channel + RX 5500 XT
 
-![about-this-mac](https://user-images.githubusercontent.com/66075182/221057747-cc4cfbc7-8861-4c55-adaf-7a6118bbf727.png)
+![about-this-mac](https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/281203991-69df3763-2c8a-4571-b5fc-c4937bff5954.png)
 
 # EFI Details
 
-**Latest working macOS**: 12.6.3 macOS Monterey
+**Latest working macOS**: 13.5 macOS Ventura
 <br>
-**Current OpenCore**: 0.8.7
+**Current OpenCore**: 0.9.6
 <br>
-**Release date**: 23/02/2023
+**Release date**: 07/11/2023
 
 # Notebook specifications
 
 | Item     |            Description            |
 | -------- | :-------------------------------: |
 | CPU      |       Intel Xeon E5 2670 v3       |
-| Memory   |        16 Gb DDR4 - 2x8Gb         |
+| Memory   |        32 Gb DDR4 - 4x8Gb         |
 | Storage  |         NVME Kingspec 1TB         |
 | GPU      | AMD Radeon RX 5500 XT 8 GB 51RISC |
 | Ethernet |   Realtek GBe Family (RTL8111)    |
