@@ -1,10 +1,10 @@
 # Machinist E5 MR9A PRO + Xeon E5 2670 v3 + 16 Gb Dual Channel + RX 5500 XT
 
-![about-this-mac](https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/281203991-69df3763-2c8a-4571-b5fc-c4937bff5954.png)
+![about-this-mac](https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/281542715-b2c753fc-6fde-4cf7-ae13-a2a28a5e0f33.png)
 
 # EFI Details
 
-**Latest working macOS**: 13.5 macOS Ventura
+**Latest working macOS**: 14.1.1 macOS Sonoma
 <br>
 **Current OpenCore**: 0.9.6
 <br>
